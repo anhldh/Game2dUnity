@@ -1,5 +1,9 @@
 # Unity 2D Game
 
+<p align="center">
+  <img src="https://cdn.anhldh.com/files/demo-game.gif" width="640" alt="Gameplay demo">
+</p>
+
 ## Giới thiệu
 
 Game thuộc thể loại **hành động 2D đơn giản**, tập trung vào các cơ chế cơ bản như:
