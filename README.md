@@ -1,7 +1,7 @@
 # Unity 2D Game
 
 <p align="center">
-  <img src="https://cdn.anhldh.com/files/demo-game.gif" width="640" alt="Gameplay demo">
+ <img width="937" height="587" alt="Demo" src="https://github.com/user-attachments/assets/555b7e0c-6a24-4d92-96b0-ff166f67cd70" />
 </p>
 
 Thử nghiệm Unity 2D — gameplay chạy đầy đủ, còn vài lỗi UI chưa xử lý.
