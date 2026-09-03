@@ -1,6 +1,6 @@
-# 🎮 Unity 2D Game
+# Unity 2D Game
 
-## 📌 Giới thiệu
+## Giới thiệu
 
 Game thuộc thể loại **hành động 2D đơn giản**, tập trung vào các cơ chế cơ bản như:
 
@@ -10,7 +10,7 @@ Game thuộc thể loại **hành động 2D đơn giản**, tập trung vào c�
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 
 - Unity Editor: **2022.3.16f1**
 - Ngôn ngữ: C#
@@ -18,7 +18,7 @@ Game thuộc thể loại **hành động 2D đơn giản**, tập trung vào c�
 
 ---
 
-## 🚀 Cách chạy project
+## Cách chạy project
 
 1. Mở Unity Hub
 2. Add project này vào
@@ -27,7 +27,7 @@ Game thuộc thể loại **hành động 2D đơn giản**, tập trung vào c�
 
 ---
 
-## 📂 Cấu trúc chính
+## Cấu trúc chính
 
 - `Assets/` – chứa toàn bộ asset và code
 - `ProjectSettings/` – cấu hình project
@@ -35,12 +35,16 @@ Game thuộc thể loại **hành động 2D đơn giản**, tập trung vào c�
 
 ---
 
-## 🎯 Mục tiêu
+## Mục tiêu
 
 - Test công cụ
 
 ---
 
-## ✨ Ghi chú
+## Ghi chú
 
 Đây là project thử nghiệm, không phải sản phẩm hoàn chỉnh.
+
+---
+
+Made by [Hoàng Anh](https://anhldh.com)
