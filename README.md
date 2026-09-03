@@ -4,50 +4,23 @@
   <img src="https://cdn.anhldh.com/files/demo-game.gif" width="640" alt="Gameplay demo">
 </p>
 
-## Giới thiệu
+Thử nghiệm Unity 2D — gameplay chạy đầy đủ, còn vài lỗi UI chưa xử lý.
 
-Game thuộc thể loại **hành động 2D đơn giản**, tập trung vào các cơ chế cơ bản như:
+## Công nghệ
 
-- Di chuyển nhân vật
-- Tương tác đơn giản
-- Gameplay cơ bản
+- Unity Editor **2022.3.16f1**
+- C#
+- Build được cho PC và WebGL
 
----
+## Chạy project
 
-## Công nghệ sử dụng
+Mở Unity Hub, add project, chọn đúng version **2022.3.16f1**, bấm Open.
 
-- Unity Editor: **2022.3.16f1**
-- Ngôn ngữ: C#
-- Nền tảng: PC / WebGL (tuỳ build)
+## Cấu trúc
 
----
-
-## Cách chạy project
-
-1. Mở Unity Hub
-2. Add project này vào
-3. Chọn đúng version: **2022.3.16f1**
-4. Nhấn **Open** để chạy project
-
----
-
-## Cấu trúc chính
-
-- `Assets/` – chứa toàn bộ asset và code
-- `ProjectSettings/` – cấu hình project
-- `Packages/` – dependencies
-
----
-
-## Mục tiêu
-
-- Test công cụ
-
----
-
-## Ghi chú
-
-Đây là project thử nghiệm, không phải sản phẩm hoàn chỉnh.
+- `Assets/` — asset và code
+- `ProjectSettings/` — cấu hình
+- `Packages/` — dependencies
 
 ---
 
